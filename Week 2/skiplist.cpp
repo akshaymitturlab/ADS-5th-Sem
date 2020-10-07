@@ -2,7 +2,7 @@
 #include <cstdlib>
 #include <cmath>
 #include <cstring>
-#define MAX_LEVEL 6
+#define MAX_LEVEL 3
 const float P = 0.5;
 using namespace std;
 
